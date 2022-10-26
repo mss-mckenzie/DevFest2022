@@ -1,7 +1,8 @@
 # Google DevFest 2022 - High School track
 ## Arduino Project Development
 
-[Kit Assembly Instructions](https://www.youtube.com/embed/videoseries?list=PLiBItcliDLPdlyGqTrn8cgXpW_A-7ckfb)
+[1. Kit Assembly Instructions](https://www.youtube.com/embed/videoseries?list=PLiBItcliDLPdlyGqTrn8cgXpW_A-7ckfb)
+This YouTube playlist steps through every stage of the assembly process.
 
 
 
