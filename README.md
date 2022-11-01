@@ -8,5 +8,7 @@ This YouTube playlist steps through every stage of the assembly process.
 
 [3. Arduino Language Reference](https://www.arduino.cc/reference/en/)
 
+![4. Nano Pinout](nano_pinout.png)
+
 
 
