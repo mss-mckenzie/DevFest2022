@@ -1,4 +1,4 @@
-# Google DevFest 2022 - High School track
+# Google DevFest 2022 - High School Track
 ## Arduino Project Development
 
 [1. Kit Assembly Instructions](https://www.youtube.com/embed/videoseries?list=PLiBItcliDLPdlyGqTrn8cgXpW_A-7ckfb)
