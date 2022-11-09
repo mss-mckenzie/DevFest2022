@@ -12,6 +12,8 @@ This YouTube playlist steps through every stage of the assembly process.
 ## pinout
 ![4. Nano Pinout](nano_pinout.png)
 
+![Nano on board](nano_on_board.png)
+
 Arduino is an open-source electronics platform based on easy-to-use hardware and software. It's intended for anyone making interactive projects.
 
 They produce a wide variety of boards for a wide variety of needs. We will be using the Arduino nano. This is an inexpensive board that is perfect for small projects.
