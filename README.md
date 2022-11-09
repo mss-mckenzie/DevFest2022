@@ -12,7 +12,7 @@ This YouTube playlist steps through every stage of the assembly process.
 ## pinout
 ![4. Nano Pinout](nano_pinout.png)
 
-<img src = "nano_on_board.png" width = "200px">
+<img src = "nano_on_board.png" width = "400px">
 
 Arduino is an open-source electronics platform based on easy-to-use hardware and software. It's intended for anyone making interactive projects.
 
